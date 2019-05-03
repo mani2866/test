@@ -1,0 +1,7 @@
+General workflow is as follows −
+
+You clone the Git repository as a working copy.
+
+You modify the working copy by adding/editing files.
+
+If necessary, you also update the working copy by taking other developer's changes.
